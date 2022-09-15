@@ -80,9 +80,9 @@ At the end of the process, the vehicle is able to drive autonomously around the 
 
 #### 2. Final Model Architecture
 
-The final model architecture consisted of a convolution neural network with a normalization layer, three 5x5 convolution layers, two 3x3 convolution layers and 3 Full-Connected Layers and  Output Layer.
+The final model architecture consisted of a convolution neural network with a normalization layer, three 5x5 convolution layers, two 3x3 convolution layers and 3 Fully-Connected Layers and  Output Layer.
 
-Here is a visualization of the architecture (taken from NVIDIA Develper site):
+Here is a visualization of the architecture (taken from NVIDIA Developer site):
 
 ![alt text][image1]
 
